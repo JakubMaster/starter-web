@@ -8,6 +8,10 @@ This is nice intro
 
 ## Purpose
 
+Purpose is to just learn ...
+
 ## Deployment
+
+There is nothing to deploy except some text files.
 
 ## How to contribute
