@@ -1,2 +1,4 @@
 gitexcludefile.txt
 *.log
+log/
+
