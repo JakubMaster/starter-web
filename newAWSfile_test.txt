@@ -1,3 +1,5 @@
+28-09 16:32 .. the last incredible test with Brackets ...
+
 28-09 16:19 now checking creds stored
 
 28-09 16:15 Just test to push both to Github and AWS
