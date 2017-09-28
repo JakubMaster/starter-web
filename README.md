@@ -15,3 +15,7 @@ Purpose is to just learn ...
 There is nothing to deploy except some text files.
 
 ## How to contribute
+
+### Copyright
+
+2014 Copyright
