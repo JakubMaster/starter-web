@@ -16,6 +16,8 @@ There is nothing to deploy except some text files.
 
 ## How to contribute
 
+Fork this repo and do the stuff you think is valuable. Then issue Pull Request fore review
+
 ### Copyright
 
-2014 Copyright
+2017 Copyright
