@@ -3,3 +3,4 @@ gitexcludefile.txt
 log/
 githubentry.txt
 old_README.md
+*.orig
