@@ -8,7 +8,8 @@
 
 # THANKS
 
-    <name>
+    All my students
+	Finally configured Text Mate 2 thanks to Jakub :)
 
 # TECHNOLOGY COLOPHON
 
