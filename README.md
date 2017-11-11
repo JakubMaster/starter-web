@@ -1,6 +1,7 @@
 # Started Web Project
 
 Simple project to show how to use Git and GitHub essentially ...
+Added a line to test rebasing
 
 ## Introduction
 
