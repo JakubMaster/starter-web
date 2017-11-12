@@ -1,7 +1,8 @@
 # Started Web Project
 
 Simple project to show how to use Git and GitHub essentially ...
-Added a line to test rebasing, 
+
+Adding emergency fix after doing our stash
 
 ... then more changes from myfeature changes, too
 
