@@ -23,4 +23,4 @@ Fork this repo and do the stuff you think is valuable. Then issue Pull Request f
 
 ### Copyright
 
-2017 Copyright
+2017 Copyright. Allrights reserved
